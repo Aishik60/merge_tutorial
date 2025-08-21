@@ -1,2 +1,4 @@
-# update deeloperb merge\_tutorial
+update developerb 
+
+adding developer A story
 
